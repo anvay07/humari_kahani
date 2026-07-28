@@ -1,0 +1,12 @@
+{
+  "name": "humari-kahani",
+  "version": "1.0.0",
+  "description": "Humari Kahani",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx -y serve -s . -p ${PORT:-8000}"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
